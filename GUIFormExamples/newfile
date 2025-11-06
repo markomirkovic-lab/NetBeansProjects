@@ -1,0 +1,8 @@
+public class mmtest {
+
+   public static void main( String[] args ) {
+      System.out.println( "From MM: Hello World!");
+   } 
+
+}
+
