@@ -1,0 +1,42 @@
+/*
+ Testing es. 5.2
+ @author Marko Mirkovic
+ @version 26.09.2021
+ */
+package soluzione;
+
+
+public class Soluzione {
+
+    public static void main(String[] args) {
+        
+        //System.out.print("Soluzione A");
+        //System.out.print("Evviva il Java\nt");
+        //System.out.print("\tEvviva il Java\nt");
+        //System.out.print("Evviva il Java\n");
+        
+        //System.out.print("Soluzione B");
+        //System.out.print("Evviva il Java\n");
+        //System.out.print("Evviva il Java\t");
+        //System.out.print("\tEvviva il Java\n");
+        
+        //System.out.print("Soluzione C");
+        //System.out.print("Evviva il Java");
+        //System.out.print("\tEvviva il Java\n\t\t");
+        //System.out.print("Evviva il Java\n");
+        
+        //System.out.print("Soluzione D");
+        System.out.print("Evviva il Java\n");
+        System.out.print("\tEvviva il Java\n");
+        System.out.print("\t\tEvviva il Java\n");
+    
+    }
+    
+}
+
+
+run:
+Evviva il Java
+	Evviva il Java
+		Evviva il Java
+BUILD SUCCESSFUL (total time: 0 seconds)
